@@ -62,7 +62,7 @@
     "ngrok": "^3.1.0",
     "nock": "^9.4.3",
     "uport-transports": "^0.0.66",
-    "webpack": "^4.20.2",
+    "webpack": "^5.98.0",
     "webpack-cli": "^3.1.1"
   }
 }
