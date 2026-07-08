@@ -1,2 +1,6 @@
 adal==1.2.0
-requests==2.21.0
+requests==2.31.0
+urllib3>=2.7.0 # not directly required, pinned by Snyk to avoid a vulnerability
+pyjwt>=2.11.0 # not directly required, pinned by Snyk to avoid a vulnerability
+cryptography>=46.0.5 # not directly required, pinned by Snyk to avoid a vulnerability
+idna>=3.7 # not directly required, pinned by Snyk to avoid a vulnerability
